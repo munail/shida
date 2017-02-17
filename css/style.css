@@ -1,0 +1,28 @@
+h1.head{
+    text-align: center;
+    background-image: url(../ip2/assets/backgrounds/landing.jpg);
+    border-bottom-width: thick;
+    
+}
+
+.h1{
+    color: azure;
+}
+
+#my{
+    display: table-caption;
+    column-count: 4;
+    column-gap: normal;
+    column-rule: 1em;
+    text-align: center;
+}
+.B{
+    background-image: url(../ip2/assets/foodtop/breakfast.jpg)
+}
+        
+.Food{
+    float: right;
+}
+p.imgo{
+    float: right;
+}
